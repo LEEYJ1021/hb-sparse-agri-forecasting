@@ -89,7 +89,7 @@ hb-sparse-agri-forecasting/
 │   │   ├── conformal.csv                 # Conformal PI coverage summary
 │   │   └── category_volatility.csv       # Kruskal-Wallis volatility heterogeneity
 │   │
-│   └── ijf_report.md                     # Full numerical results report
+│   └── report.md                     # Full numerical results report
 ```
 
 ---
